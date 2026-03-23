@@ -7,3 +7,4 @@ lib/bombadil/target
 .claude
 AGENTS.md
 CLAUDE.md
+.file_activity_report.json
